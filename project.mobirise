@@ -628,7 +628,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rodrigo-600x600-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/23232-600x600-73.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
