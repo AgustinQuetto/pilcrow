@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PILCROW</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-7\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures1-3\" aria-expanded=\"true\">CARACTERÍSTICAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">REDES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-b\" aria-expanded=\"true\">CONTÁCTANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">EQUIPO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">APP STORE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=maxra.pil\">GOOGLE PLAY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-7\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures1-3\" aria-expanded=\"true\">CARACTERÍSTICAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">REDES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm1-b\" aria-expanded=\"true\">CONTÁCTANOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">EQUIPO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://play.google.com/store/apps/details?id=maxra.pil\">DESCARGAR DESDE GOOGLE PLAY</a></li>"
         },
         {
           "_inherit": "header1",
@@ -371,7 +371,7 @@
             "showSubtitle": true,
             "showText": false,
             "showForm": true,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"nav-link btn btn-white btn-white-outline\">GOOGLE PLAY</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">DOWNLOAD FOR WINDOWS</a>"
           },
           "media": {
             "image": {
@@ -513,40 +513,46 @@
               "link": "https://www.facebook.com/warkanlock",
               "size": 0,
               "color": "#000",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "media1_2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "twitter",
+              "family": "socicon",
+              "active": true,
+              "link": "https://twitter.com/nanobrasca",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media1_3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.instagram.com/nano_brasca/",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media1_4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
               "name": "linkedin",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.linkedin.com/in/warkanlockstudios",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media2": {
@@ -579,35 +585,41 @@
           },
           "media2_2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "twitter",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media2_3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "socicon",
+              "active": true,
+              "link": "#",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": false
             }
           },
           "media2_4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
               "name": "linkedin",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.linkedin.com/in/daniel-catalano-a0360497",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media3": {
@@ -635,40 +647,46 @@
               "link": "https://www.facebook.com/toro.lopezdominguez",
               "size": 0,
               "color": "#000",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "media3_2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "lastfm",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "twitter",
+              "family": "socicon",
+              "active": true,
+              "link": "https://twitter.com/RodrigoLD19",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media3_3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
-              "name": "skype",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "instagram",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.instagram.com/torold19/",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media3_4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "linkInNewWindow": false,
               "name": "linkedin",
-              "link": "https://mobirise.com",
+              "family": "socicon",
+              "active": true,
+              "link": "https://www.linkedin.com/in/rodrigo-agust%C3%ADn-l%C3%B3pez-dom%C3%ADnguez-574b425b",
               "size": 0,
               "color": "#000",
-              "family": "socicon"
+              "newWindow": true
             }
           },
           "media4": {
