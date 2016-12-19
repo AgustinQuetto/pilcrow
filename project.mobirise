@@ -21,15 +21,19 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 12,
-    "versionPublish": "3.10.4"
+    "uniqCompNum": 13,
+    "versionPublish": "3.10.4",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-89254630-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Pilcrow - Ves, compartís y ayudás.",
+        "meta_descr": "Tres simples pasos para cambiarle la vida a alguien, así de simple es Pilcrow.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -852,6 +856,36 @@
               "size": 0,
               "color": "#000",
               "family": "socicon"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "¡COMPARTE!",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           }
         }
